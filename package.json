@@ -1,0 +1,32 @@
+{
+  "name": "expressjstwitter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "playing around with expressjs, twitter and passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damodar Bashyal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "passport": "^0.3.2",
+    "passport-twitter": "^1.0.4",
+    "strategy": "^1.1.1",
+    "system": "^1.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dbashyal/expressjstwitter.git"
+  },
+  "keywords": [
+    "expressjstwitter"
+  ],
+  "bugs": {
+    "url": "https://github.com/dbashyal/expressjstwitter/issues"
+  },
+  "homepage": "https://github.com/dbashyal/expressjstwitter#readme"
+}
